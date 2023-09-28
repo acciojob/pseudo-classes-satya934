@@ -1,12 +1,14 @@
 /*  your css code here. If applicable */
+*{
+	background-color:rgb(135, 206, 235);
+}
 .root{
 	width:100vw;
 	height:100vh;
-	background-color:rgb(135, 206, 235);
+	
 }
 .a{
 	width:100%;
-	
 	color:white;
 	background-color:black;	
 }
