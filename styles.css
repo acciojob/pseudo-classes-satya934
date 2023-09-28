@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+.root{
+	width:500px;
+	height:500px;
+	background-color:rgb(135, 206, 235);
+}
+.a{
+	width:100%;
+	
+	color:white;
+	background-color:black;	
+}
+.c{
+	color:red;
+}
+.w{
+	width:50%;
+	background-color:white;
+}
+.g{
+	width:50%;
+	background-color:grey;
+}
+
+
+
